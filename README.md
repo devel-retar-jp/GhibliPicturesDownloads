@@ -1,6 +1,6 @@
 # GhibliPicturesDownloads
 
-ジブリの作品静止画を一括ダウンロードするツール
+ジブリの作品静止画を一括ダウンロードするツールです。
 
 Windows10のPowerShellで書いています。
 
